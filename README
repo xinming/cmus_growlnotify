@@ -1,0 +1,5 @@
+For Mac OS X: 
+
+- make sure growlnotify is installed in the system http://growl.info/
+- run this in cmus :set status_display_program=/path/to/cmus_growl.rb
+- make file executable (chmod +x cmus_growl.rb)
